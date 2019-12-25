@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![](http://m.qpic.cn/psc?/V13ZfMNB1UKl1g/iXs1ae7hmJtTd.wIcSd4.aaVlSWcdlvvJB8TyF*pMA0Z6MQm2Ku*VPhAaEFUb8Zw7F226wlS8BikwB9VR0r3RygUP7r8wLRgJ1UxrjngSwA!/anull&bo=5gDkAAAAAAADByA!&rf=photolist&t=5)
+![](http://m.qpic.cn/psc?/V13ZfMNB1UKl1g/iXs1ae7hmJtTd.wIcSd4.f3aDH7cmqSnola.e38EEJyXcTwVR1RJk2JRvdczGsE7BnigBTx4HuQeWm0MMRQhZpP4B.1xQPel68eZ.Tmzmy8!/b&bo=5gDkAOYA5AADCSw!&rf=viewer_4)
 
 Shen Hongyan**                            
 
