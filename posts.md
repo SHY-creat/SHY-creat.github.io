@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "An Intro to Git and GitHub for Beginners"
+title: "An Intro to Git and Github for Beginners"
 permalink: /posts/
 main_nav: true
 ---
