@@ -5,7 +5,7 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![](http://b316.photo.store.qq.com/psb?/V13ZfMNB0hTlRk/lyMix9U7yrHzqhsm.*1RxUntnUBG1pTEtafqRTGhcQo!/b/dDwBAAAAAAAA&bo=VAY4BAAAAAARB14!&rf=viewer_4)
 
 Shen Hongyan**                            
 
