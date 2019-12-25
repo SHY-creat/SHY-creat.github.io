@@ -7,13 +7,13 @@ main_nav: true
 
 ![](http://m.qpic.cn/psc?/V13ZfMNB1UKl1g/iXs1ae7hmJtTd.wIcSd4.f3aDH7cmqSnola.e38EEJyXcTwVR1RJk2JRvdczGsE7BnigBTx4HuQeWm0MMRQhZpP4B.1xQPel68eZ.Tmzmy8!/b&bo=5gDkAOYA5AADCSw!&rf=viewer_4)
 
-Shen Hongyan**                            
+**Shen Hongyan**                         
 
 **Student**                                           18875039805 
 
 **Chongqing, China** 
 
-Summary** 
+**Summary**
 
 Bilingual English and Chinese. One year exchange student in SISU. Together Two years of  
 
@@ -75,7 +75,7 @@ University of Education.
 
 **Assisting** 
 
-Served as a Judge Assistant in t](https://github.com/jekyll/jekyll)
+Served as a Judge Assistant in  the 2017 FLTRP National English Competition.
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
