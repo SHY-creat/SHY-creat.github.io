@@ -1,17 +1,81 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 main_nav: true
 ---
 
 ![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Shen Hongyan**                            
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+**Student**                                           18875039805 
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+**Chongqing, China** 
+
+Summary** 
+
+Bilingual English and Chinese. One year exchange student in SISU. Together Two years of  
+
+teaching experience as a tutor and a teacher in an English training institution. Good at public  
+
+speaking and debating and have been a regular awards winner in contests such as the first prize in  
+
+the business English speech contest of Grade 2016 and The Best Debater in Debating Contest. 
+
+**Work Experience** 
+
+**English Teacher** 
+
+**New Youth**, Guizhou 
+
+Jun 2018 - Aug 2018 
+
+Taught English writing and reading, maintained classroom discipline, and prepared and gave  
+
+examinations. 
+
+**Teacher Assistant** 
+
+**Education First**, Chongqing 
+
+Dec 2017 - May 2018 
+
+Assisted the lead teacher in implementing daily lessons, ensure children's safety, and assisted in  
+
+conducting different recreational activities. 
+
+**Education** 
+
+**Major in English** 
+
+**Chongqing University of Education**, Chongqing 
+
+2016 - Current 
+
+**Special Accomplishment**: Obtained National Encouragement scholarship, first-class scholarship  
+
+and second-class scholarship twice respectively. 
+
+**Related courses**: 
+
+English Debating, Public Speaking, Academic Writing, etc. 
+
+**Abilities** 
+
+**Writing** 
+
+Won the third prize in the Chongqing Nade Cup English Document writing competition. 
+
+**Broadcasting** 
+
+Six years of experience in broadcasting. Excellent Worker in FM Station in the Chongqing  
+
+University of Education. 
+
+**Assisting** 
+
+Served as a Judge Assistant in t](https://github.com/jekyll/jekyll)
 
 [centrarium]: https://github.com/bencentra/centrarium
 [bencentra]: http://bencentra.com
